@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	5sS8SnpwQxI1tXLnZenzkpV2.2A4n8ERVkBj4IFcIAE-1758743992348-0.0.1.1-604800000
+www.mairamansoor.com	TRUE	/	FALSE	1999999999	SameSite	None
+
